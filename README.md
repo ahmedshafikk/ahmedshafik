@@ -82,6 +82,8 @@ Feel free to get in touch with me to discuss collaboration opportunities or to l
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAb1BMVEX///8AAADq6uqyMjIMzMw9PT0pKSlhYWG+vr5zc3Nuam5ra2vHx8eGhoYGBgYFJSUo6OjsaGhoKCgpOTk5bW1uioqL29vZISEh8fHzg4ODEhIRsbGw6OjoFBQWQkJD5+fnm5ubg4ODs7OzJycnq6urr6+vs7OzNzc1KSko4ODjIyMg8PDw+Pj4qKioQEBADAwNqampqenp5ra2uFhYXV1dXc3NzV1dX09PT4+Pjw9PT09PT0/Pz8/Pz8zMzM2NjY3NzdHR0fFxcXv7+/o6OjQ0ND+/v7b29vR0dHl5eW3t7T)
 
 
 
