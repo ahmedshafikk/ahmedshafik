@@ -58,7 +58,7 @@ Feel free to get in touch with me to discuss collaboration opportunities or to l
 - ⚡ Fun Fact: In my free time, I enjoy experimenting with new machine learning techniques and exploring the latest research papers in the field.
 - 📫 You can reach me at ahmed.shafikk98@gmail.com or connect with me on LinkedIn to learn more about my work and experience.
 - 💻 Check out my GitHub repositories to see some of the open-source machine learning projects I've contributed to, including libraries for data preprocessing and model evaluation.
-- 🎓 I earned my Bachelor's degree in Computer Science, specializing in artificial intelligence and machine learning, from The  University of uOttawa.
+- 🎓 I earned my Bachelor's degree in Biomedical Engineering, specializing in using Artificial Intelligence in the medical sector, from Mansoura University.
 
 
 
