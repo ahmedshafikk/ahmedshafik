@@ -51,7 +51,7 @@ Feel free to get in touch with me to discuss collaboration opportunities or to l
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Engineer;Always%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Machine Learning Engineer
+- 🏢 I'm an artificial intelligence engineer
 - 🎓 I'm a Master's student in Artificial Intelligence, specializing in machine learning and deep learning.
 - 👨‍💻 As a machine learning engineer, I work on developing and deploying machine learning models for a variety of applications, including natural language processing and computer vision.
 - 💬 Feel free to ask me about my experience with Python, TensorFlow, PyTorch, and other machine learning frameworks and libraries.
