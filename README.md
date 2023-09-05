@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/johndoe/johndoe/main/header.gif" alt="header" width="800" height="400"/>
 </div>
 
-I'm a machine learning engineer with experience in Python, R, SQL, and cloud computing. I earned the AWS Machine Learning Specialization badge and the AWS Cloud Practitioner certification. My areas of expertise include PyTorch, TensorFlow, Keras, scikit-learn, NLP, and data visualization.
+I'm an artificial intelligence engineer with experience in Python, R, SQL, and cloud computing. I earned the AWS Machine Learning Specialization badge and the AWS Cloud Practitioner certification. My areas of expertise include PyTorch, TensorFlow, Keras, scikit-learn, NLP, and data visualization.
 
 ## Skills
 
